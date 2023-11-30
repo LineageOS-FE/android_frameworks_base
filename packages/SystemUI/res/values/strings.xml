@@ -2867,4 +2867,8 @@
 
     <!-- Content description for priority mode icon on dream [CHAR LIMIT=NONE] -->
     <string name="priority_mode_dream_overlay_content_description">Priority mode on</string>
+
+    <!-- Face unlock -->
+    <string name="face_unlock_recognizing">Recognizing face...</string>
+
 </resources>
